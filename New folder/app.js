@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express();
-const ejs = require('ejs');
 var path = require('path');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
@@ -36,6 +35,7 @@ app.get('/login',(req,res,next)=>{
 })
 app.post('/login', (req, res, next) => {
 	User.findOne({ email: req.body.email }, (err, data) => {
+        console.log(data)
 		if (!data) {
 			res.redirect('/');
 		} else {
@@ -63,6 +63,8 @@ app.post('/register',(req,res,next)=>{
             console.log('Success');
     });
     res.send({ "Success": "User Registered!" });
+    return res.render("register.ejs")
+
 })
 
 
