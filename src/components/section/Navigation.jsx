@@ -30,7 +30,7 @@ function Navigation() {
                   </li>
                 </ul>
 
-                <a  className="nav-close">
+                <a href="/" className="nav-close">
                   <i className="fal fa-times"></i>
                 </a>
               </nav>
@@ -41,7 +41,7 @@ function Navigation() {
                   <NavLink to="/sign-up">Seller</NavLink>
                   
               </div>
-              <a href="#" class="nav-toggler">
+              <a href="/" class="nav-toggler">
                             <i class="far fa-bars"></i>
                         </a>
              

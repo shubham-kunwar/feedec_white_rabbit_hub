@@ -58,10 +58,10 @@ function About() {
                             Productservices are professional services that help market or advertise your business
                             online. Best Way to Manage and Share Work Resources.
                         </p>
-                        <a href="#" className="main-btn mt-30">Learn More</a>
+                        <a href="/" className="main-btn mt-30">Learn More</a>
                         <div className="about-author">
                             <div className="author-img">
-                                <img src="assets/img/about-author.jpg" alt="Image"/>
+                                <img src="assets/img/about-author.jpg" alt="feedec"/>
                             </div>
                             <div className="author-desc">
                                 <h5>Rosalina D. William</h5>
@@ -87,12 +87,12 @@ function About() {
                 <div className="col-lg-4 col-md-6 col-sm-10">
                     <div className="service-box-two mt-30">
                         <span className="box-count">01</span>
-                        <h4 className="title"><a href="#">Digital Product Developoment</a></h4>
+                        <h4 className="title"><a href="/">Digital Product Developoment</a></h4>
                         <p>
                             We enjoy working with discerning clients, people for whom quality, service, integrity &
                             aesthetics matter deeply.
                         </p>
-                        <a href="#" className="service-link">
+                        <a href="/" className="service-link">
                             <i className="fal fa-plus"></i>
                             <span>Read More</span>
                         </a>
@@ -101,12 +101,12 @@ function About() {
                 <div className="col-lg-4 col-md-6 col-sm-10">
                     <div className="service-box-two mt-30">
                         <span className="box-count">02</span>
-                        <h4 className="title"><a href="#">General Consulting Process</a></h4>
+                        <h4 className="title"><a href="/">General Consulting Process</a></h4>
                         <p>
                             We enjoy working with discerning clients, people for whom quality, service, integrity &
                             aesthetics matter deeply.
                         </p>
-                        <a href="#" className="service-link">
+                        <a href="/" className="service-link">
                             <i className="fal fa-plus"></i>
                             <span>Read More</span>
                         </a>
@@ -115,12 +115,12 @@ function About() {
                 <div className="col-lg-4 col-md-6 col-sm-10">
                     <div className="service-box-two mt-30">
                         <span className="box-count">03</span>
-                        <h4 className="title"><a href="#">Hire in Fixed Contracting</a></h4>
+                        <h4 className="title"><a href="/">Hire in Fixed Contracting</a></h4>
                         <p>
                             We enjoy working with discerning clients, people for whom quality, service, integrity &
                             aesthetics matter deeply.
                         </p>
-                        <a href="#" className="service-link">
+                        <a href="/" className="service-link">
                             <i className="fal fa-plus"></i>
                             <span>Read More</span>
                         </a>
@@ -188,11 +188,11 @@ function About() {
                                 <div className="news-thumb"  style={{ backgroundImage: `url(./assets/img/latest-news/01.jpg)` }}></div>
                                 <div className="content">
                                     <ul className="post-meta">
-                                        <li><a href="#"><i className="fal fa-calendar-alt"></i> 10th May 2020</a></li>
-                                        <li className="admin"><a href="#">Admin</a></li>
+                                        <li><a href="/"><i className="fal fa-calendar-alt"></i> 10th May 2020</a></li>
+                                        <li className="admin"><a href="/">Admin</a></li>
                                     </ul>
                                     <h4>
-                                        <a href="#">Chemical engineering projects for all technologies</a>
+                                        <a href="/">Chemical engineering projects for all technologies</a>
                                     </h4>
                                     <p>
                                         As emerging technologies converge with urban planning, a revolution of automated, on-demand and ownerless transport beckons. But is the concept
@@ -205,11 +205,11 @@ function About() {
                                 <div className="news-thumb"  style={{ backgroundImage: `url(./assets/img/latest-news/02.jpg)` }}></div>
                                 <div className="content">
                                     <ul className="post-meta">
-                                        <li><a href="#"><i className="fal fa-calendar-alt"></i> 10th May 2020</a></li>
-                                        <li className="admin"><a href="#">Admin</a></li>
+                                        <li><a href="/"><i className="fal fa-calendar-alt"></i> 10th May 2020</a></li>
+                                        <li className="admin"><a href="/">Admin</a></li>
                                     </ul>
                                     <h4>
-                                        <a href="#">Chemical engineering projects for all technologies</a>
+                                        <a href="/">Chemical engineering projects for all technologies</a>
                                     </h4>
                                     <p>
                                         As emerging technologies converge with urban planning, a revolution of automated, on-demand and ownerless transport beckons. But is the concept
@@ -225,11 +225,11 @@ function About() {
                             <div className="news-thumb"  style={{ backgroundImage: `url(./assets/img/latest-news/03.jpg)` }}></div>
                             <div className="content">
                                 <ul className="post-meta">
-                                    <li><a href="#"><i className="fal fa-calendar-alt"></i> 10th May 2020</a></li>
-                                    <li className="admin"><a href="#">Admin</a></li>
+                                    <li><a href="/"><i className="fal fa-calendar-alt"></i> 10th May 2020</a></li>
+                                    <li className="admin"><a href="/">Admin</a></li>
                                 </ul>
                                 <h4>
-                                    <a href="#">Engineering projects for all technologies</a>
+                                    <a href="/">Engineering projects for all technologies</a>
                                 </h4>
                             </div>
                         </div>
@@ -237,11 +237,11 @@ function About() {
                             <div className="news-thumb" style={{ backgroundImage: `url(./assets/img/latest-news/04.jpg)` }}></div>
                             <div className="content">
                                 <ul className="post-meta">
-                                    <li><a href="#"><i className="fal fa-calendar-alt"></i> 10th May 2020</a></li>
-                                    <li className="admin"><a href="#">Admin</a></li>
+                                    <li><a href="/"><i className="fal fa-calendar-alt"></i> 10th May 2020</a></li>
+                                    <li className="admin"><a href="/">Admin</a></li>
                                 </ul>
                                 <h4>
-                                    <a href="#">Engineering projects for all technologies</a>
+                                    <a href="/">Engineering projects for all technologies</a>
                                 </h4>
                             </div>
                         </div>
@@ -249,15 +249,15 @@ function About() {
                             <div className="news-thumb" style={{ backgroundImage: `url(./assets/img/latest-news/01.jpg)` }}></div>
                             <div className="content">
                                 <ul className="post-meta">
-                                    <li><a href="#"><i className="fal fa-calendar-alt"></i> 10th May 2020</a></li>
-                                    <li className="admin"><a href="#">Admin</a></li>
+                                    <li><a href="/"><i className="fal fa-calendar-alt"></i> 10th May 2020</a></li>
+                                    <li className="admin"><a href="/">Admin</a></li>
                                 </ul>
                                 <h4>
-                                    <a href="#">Engineering projects for all technologies</a>
+                                    <a href="/">Engineering projects for all technologies</a>
                                 </h4>
                             </div>
                         </div>
-                        <a href="#" className="load-more-btn"><i className="fal fa-newspaper"></i> More News</a>
+                        <a href="/" className="load-more-btn"><i className="fal fa-newspaper"></i> More News</a>
                     </div>
                 </div>
             </div>

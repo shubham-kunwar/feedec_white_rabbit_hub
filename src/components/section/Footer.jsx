@@ -7,14 +7,14 @@ function Footer() {
         <div className="container">
             <div className="d-sm-flex justify-content-between align-items-center">
                 <div className="footer-logo mb-xs-gap-30">
-                    <img src="assets/img/logo-white.png" className="resize-logo" alt="Image"/>
+                    <img src="assets/img/logo-white.png" className="resize-logo" alt="feedec"/>
                 </div>
                 <ul className="social-icon">
-                    <li><a href="#"><i className="fab fa-facebook-f"></i></a></li>
-                    <li><a href="#"><i className="fab fa-twitter"></i></a></li>
-                    <li><a href="#"><i className="fab fa-behance"></i></a></li>
-                    <li><a href="#"><i className="fab fa-youtube"></i></a></li>
-                    <li><a href="#"><i className="fab fa-vimeo"></i></a></li>
+                    <li><a href="/"><i className="fab fa-facebook-f"></i></a></li>
+                    <li><a href="/"><i className="fab fa-twitter"></i></a></li>
+                    <li><a href="/"><i className="fab fa-behance"></i></a></li>
+                    <li><a href="/"><i className="fab fa-youtube"></i></a></li>
+                    <li><a href="/"><i className="fab fa-vimeo"></i></a></li>
                 </ul>
             </div>
         </div>
@@ -36,16 +36,16 @@ function Footer() {
                     <div className="widget nav-widget">
                         <h5 className="widget-title">Services.</h5>
                         <ul>
-                            <li><a href="#">SEO Marketing</a></li>
-                            <li><a href="#">Game Development</a></li>
-                            <li><a href="#">Link Building</a></li>
-                            <li><a href="#">Bitcoin Mining</a></li>
-                            <li><a href="#">Keyword Targeting</a></li>
-                            <li><a href="#">Live Streaming</a></li>
-                            <li><a href="#">Web Analytics</a></li>
-                            <li><a href="#">Marketplace</a></li>
-                            <li><a href="#">Email Marketing</a></li>
-                            <li><a href="#">Business Strategy</a></li>
+                            <li><a href="/">SEO Marketing</a></li>
+                            <li><a href="/">Game Development</a></li>
+                            <li><a href="/">Link Building</a></li>
+                            <li><a href="/">Bitcoin Mining</a></li>
+                            <li><a href="/">Keyword Targeting</a></li>
+                            <li><a href="/">Live Streaming</a></li>
+                            <li><a href="/">Web Analytics</a></li>
+                            <li><a href="/">Marketplace</a></li>
+                            <li><a href="/">Email Marketing</a></li>
+                            <li><a href="/">Business Strategy</a></li>
                         </ul>
                     </div>
                 </div>
@@ -112,9 +112,9 @@ function Footer() {
         <div className="container">
             <div className="d-md-flex align-items-center justify-content-between">
                 <ul className="footer-menu order-md-2">
-                    <li><a href="#">Terms & Conditions</a></li>
-                    <li><a href="#">Refund Policy</a></li>
-                    <li><a href="#">Support</a></li>
+                    <li><a href="/">Terms & Conditions</a></li>
+                    <li><a href="/">Refund Policy</a></li>
+                    <li><a href="/">Support</a></li>
                 </ul>
                 <p className="copyright-text order-md-1">Copyright FEEDEC- 2021</p>
             </div>

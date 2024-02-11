@@ -53,10 +53,10 @@ function Development() {
                             Productservices are professional services that help market or advertise your business
                             online. Best Way to Manage and Share Work Resources.
                         </p>
-                        <a href="#" className="main-btn mt-30">Learn More</a>
+                        <a href="/" className="main-btn mt-30">Learn More</a>
                         <div className="about-author">
                             <div className="author-img">
-                                <img src="assets/img/about-author.jpg" alt="Image"/>
+                                <img src="assets/img/about-author.jpg" alt="feedec"/>
                             </div>
                             <div className="author-desc">
                                 <h5>Rosalina D. William</h5>
